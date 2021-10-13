@@ -7,9 +7,9 @@
   <a href="#Finance-Cycles">Finance Cycles</a> •
   <a href="**Self-service**">Self-service</a> •
   <a href="**Operating-Models**">Operating Models</a> •
-  <a href="###Enterprise-resource-planning">Enterprise resource planning</a> •
-  <a href="**Self-service**">Self-service</a> •
-  <a href="**Self-service**">Self-service</a> 
+  <a href="**Enterprise-resource-planning**">Enterprise resource planning</a> •
+  <a href="**Data**">Data</a> •
+  <a href="**Workforce-and-workplace**">Workforce and workplace</a> 
 </p>
 
 ## Project-Three
