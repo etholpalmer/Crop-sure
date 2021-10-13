@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#Background">Background</a> •
   <a href="#The-Finance-Factory">The Finance Factory</a> •
-  <a href="#download">Download</a> •
+  <a href="#The-role-of-finance">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
