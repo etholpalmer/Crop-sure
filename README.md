@@ -35,7 +35,7 @@ Digital disruption is changing what we do, and how we get things done, in countl
 
 ### The Finance Factory
 
-<p align="center"><img width=75% src="https://user-images.githubusercontent.com/83662813/137185732-4e7b63c7-ebea-431a-8ec2-c773ad7059c9.jpg"></p>
+<p align="center"><img width=75% src="https://user-images.githubusercontent.com/83662813/137217307-acdee3cd-67df-47d6-bbdd-df230cf2ab8f.jpg"></p>
 
 Transactions will be touchless as automation and blockchain reach deeper into finance operations. In the years ahead, cloud-based ERP, automation, and cognitive innovation will continue apace, creating opportunities to radically simplify processes and free up people. Adding blockchain to the mix will only accelerate this trend. As this transition picks up speed, the capacity of humans to add value will be unleashed.
 
