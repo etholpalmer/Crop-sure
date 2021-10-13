@@ -19,7 +19,6 @@
 When Sumerian merchants first recorded livestock sales on clay tablets, finance technology was born. Five thousand years later, technology has evolved into a new class of digital tools reshaping every aspect of the business. No matter what future entrepreneurs see for their finance organization, one thing is clear: That future is now. If they’re going to compete in the digital world, their organization needs to forecast and manage more effectively and become more efficient.
  
 ![blockchain-gd96dedea2_1920](https://user-images.githubusercontent.com/83662813/137159078-a2b4b084-8d66-4a32-8d44-59b44cbc1d51.jpg)
-alt="blockchain-gd96dedea2_1920" width="100"></a>
  
  Group Members: ***Ethol Palmer, John Mari Mangahas, Keith Louis, Martin Anthony Mangahas, Ameera Gafoor, Grace Zai***
 
