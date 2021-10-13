@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="#Background">Background</a> •
-  <a href="**The-finance-Factory**">The Finance Factory</a> •
+  <a href="#The-finance-Factory">The Finance Factory</a> •
   <a href="#The-role-of-finance">The role of finance</a> •
   <a href="#Finance-Cycles">Finance Cycles</a> •
-  <a href="**Self-service**">Self-service</a> •
-  <a href="**Operating-Models**">Operating Models</a> •
-  <a href="**Enterprise-resource-planning**">Enterprise resource planning</a> •
-  <a href="**Data**">Data</a> •
-  <a href="**Workforce-and-workplace**">Workforce and workplace</a> 
+  <a href="#Self-service">Self-service</a> •
+  <a href="#Operating-Models">Operating Models</a> •
+  <a href="#Enterprise-resource-planning">Enterprise resource planning</a> •
+  <a href="#Data">Data</a> •
+  <a href="#Workforce-and-workplace">Workforce and workplace</a> 
 </p>
 
 ## Project-Three
@@ -33,7 +33,7 @@ When Sumerian merchants first recorded livestock sales on clay tablets, finance 
  
 Digital disruption is changing what we do, and how we get things done, in countless ways. What does this have to do with the future of Finance? In short **Everything!** Here's the future we see. The eight predictions about digital transformation in Finance:
 
-**The Finance Factory**
+### The Finance Factory
 
 ![hexagon-g61db42480_1920](https://user-images.githubusercontent.com/83662813/137185732-4e7b63c7-ebea-431a-8ec2-c773ad7059c9.jpg)
 
@@ -42,7 +42,7 @@ Transactions will be touchless as automation and blockchain reach deeper into fi
 Some find it interesting to speculate about finance disappearing under the crush of digital disruption, but we don’t see that happening. Yes, finance will likely be leaner, but that will mostly be a function of headcount in operational finance (order-to-cash, procure-to-pay, transactional accounting, etc.). Meanwhile, expectations for support from business finance (business partnering, reporting, planning, budgeting, forecasting, etc.) and specialized finance (tax, treasury, IR, etc.) will continue to grow.
    
 
-**The role of Finance**
+### The role of Finance
 
 ![e-commerce-g0aba9258a_1920](https://user-images.githubusercontent.com/83662813/137187176-28be4c64-63fd-48a9-bf71-92cef967da31.jpg)
 
@@ -51,7 +51,7 @@ With Operations largely automated, Finance will double down on business insights
 Companies know that sharing knowledge across disciplines is a good thing, even if it creates headaches. Learn what it takes to make the most of blurring boundaries.
    
      
-**Finance Cycles**
+### Finance Cycles
 
 ![icon-g822104528_1920](https://user-images.githubusercontent.com/83662813/137189565-f0b2aedf-67d7-4d7b-b683-42c778102d3a.jpg)
 
@@ -60,7 +60,7 @@ Finance goes real time. Periodic reporting will no longer drive operations and d
 Many finance cycles today are driven by technology and data-processing limitations. Things happen on a regular schedule because that’s the only way they can happen. When information becomes instantly available to those who need it, traditional cycles become unnecessary. That frees people up to focus on discovering new insights and acting on them.
    
    
-**Self-service**
+### Self-service
 
 ![freelancer-gab2f75841_1920](https://user-images.githubusercontent.com/83662813/137186180-9db95aa3-9261-4d75-8e65-a84e7e489183.jpg)
 
@@ -69,7 +69,7 @@ Self-service will become the norm. Finance will be uneasy about this. There are 
 With growing expectations for responsiveness and quality from finance, getting self-service right is paramount. When your customers are having to take care of themselves, the last thing finance needs is for them to be frustrated or unhappy.
    
    
-**Operating Models**
+### Operating Models
 
 ![bitcoin-gde44cd063_1280](https://user-images.githubusercontent.com/83662813/137190242-06021d33-71be-4151-af22-f496296bce25.png)
 
@@ -87,7 +87,7 @@ Finance applications and microservices challenge traditional ERP. Big venders wi
 Finance is entering a golden age of technology. As cloud becomes the norm for ERP, finance applications and microservices will proliferate. You’ll be able to drastically reduce the complexity and cost of technology, without sacrificing functionality.
    
    
-**Data**
+### Data
 
 ![statistics-gd242e89da_1920](https://user-images.githubusercontent.com/83662813/137186547-c5d76f92-ed10-439b-bc76-a5a8cdb7ab00.jpg)
 
@@ -96,7 +96,7 @@ The proliferation of APIs will drive data standardization, but it won't be enoug
 Data problems hide beneath the surface for many CFOs, some of whom don’t fully appreciate the heavy lifting required to fulfill their requests. That’s partly because the problems involve technical issues, and partly because there’s little motivation for people to elevate the problems to the corner office. No one wants to be the bearer of bad tidings.
    
    
-**Workforce and workplace**
+### Workforce and workplace
 
 ![business-gd3743b0b1_1920](https://user-images.githubusercontent.com/83662813/137186654-b7033ea7-a358-4983-8cf0-805307851e9e.jpg)
 
