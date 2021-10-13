@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#Background">Background</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#The finance Factory">The finance Factory</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
