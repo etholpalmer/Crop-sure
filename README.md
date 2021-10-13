@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#Background">Background</a> •
-  <a href="#The finance Factory">The finance Factory</a> •
+  <a href="#The-Finance-Factory">The Finance Factory</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
@@ -30,7 +30,7 @@ When Sumerian merchants first recorded livestock sales on clay tablets, finance 
  
 Digital disruption is changing what we do, and how we get things done, in countless ways. What does this have to do with the future of Finance? In short **Everything!** Here's the future we see. The eight predictions about digital transformation in Finance:
 
-**The finance Factory**
+**The Finance Factory**
 
 ![hexagon-g61db42480_1920](https://user-images.githubusercontent.com/83662813/137185732-4e7b63c7-ebea-431a-8ec2-c773ad7059c9.jpg)
 
