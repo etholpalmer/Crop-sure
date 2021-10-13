@@ -41,7 +41,7 @@ Companies know that sharing knowledge across disciplines is a good thing, even i
      
 **Finance Cycles**
 
-![money-gbfc958ef2_1280](https://user-images.githubusercontent.com/83662813/137186106-a89879aa-5a6b-4db2-ac13-908d1972381e.png)
+![icon-g822104528_1920](https://user-images.githubusercontent.com/83662813/137189565-f0b2aedf-67d7-4d7b-b683-42c778102d3a.jpg)
 
 Finance goes real time. Periodic reporting will no longer drive operations and decisions, if it ever did. When both actuals and forecasts can be produced instantly on demand, traditional cycles become less relevant. The old distinction between operational and analytical data begins to disappear. Finance organizations will still need to meet external demands for cyclical information, but outside investors may also want more frequent performance information. Leading organizations will be operating with a new mantra: There is no close. You’re not forecasting once a month or quarterly. It’s all happening in real-time.
 
@@ -59,7 +59,7 @@ With growing expectations for responsiveness and quality from finance, getting s
    
 **Operating Models**
 
-![transformation-gc4c2391da_1920](https://user-images.githubusercontent.com/83662813/137186350-bd398bad-16e6-427b-a9bc-3bf433a82ae2.jpg)
+![bitcoin-gde44cd063_1280](https://user-images.githubusercontent.com/83662813/137190242-06021d33-71be-4151-af22-f496296bce25.png)
 
 New service-delivery models will emerge as robots and algorithms join a more diverse finance workforce, think about the integration of freelancers, gig workers, and crowds. Companies will assess the benefits of automation against onshore and offshore operations. Automation provides a new lever for managing costs, one that gives finance organizations the opportunity to reevaluate how they’re organized, where work gets done, and what kinds of processes no longer require human intervention. Finance-as-a-service will gain traction beyond mid-market companies.
 
