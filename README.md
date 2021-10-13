@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="#Background">Background</a> •
-  <a href="#The-Finance-Factory">The Finance Factory</a> •
+  <a href="#The-finance-Factory">The Finance Factory</a> •
   <a href="#The-role-of-finance">The role of finance</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#Finance-Cycles">Finance Cycles</a> •
+  <a href="**Self-service**">Self-service</a> •
   <a href="#license">License</a>
 </p>
 
@@ -57,7 +57,7 @@ Finance goes real time. Periodic reporting will no longer drive operations and d
 Many finance cycles today are driven by technology and data-processing limitations. Things happen on a regular schedule because that’s the only way they can happen. When information becomes instantly available to those who need it, traditional cycles become unnecessary. That frees people up to focus on discovering new insights and acting on them.
    
    
-**Sel-service**
+**Self-service**
 
 ![freelancer-gab2f75841_1920](https://user-images.githubusercontent.com/83662813/137186180-9db95aa3-9261-4d75-8e65-a84e7e489183.jpg)
 
