@@ -32,7 +32,7 @@ Some find it interesting to speculate about finance disappearing under the crush
 
 **The role of Finance**
 
-![graph-g4b317a7d8_1280](https://user-images.githubusercontent.com/83662813/137186039-7e362515-589b-4d19-828a-cf7b0acf8c76.png)
+![e-commerce-g0aba9258a_1920](https://user-images.githubusercontent.com/83662813/137187176-28be4c64-63fd-48a9-bf71-92cef967da31.jpg)
 
 With Operations largely automated, Finance will double down on business insights and service. Success is not assured. Whether finance continues to direct the resources currently under its control will be dependent on its ability to add value. That will require quality insights and exceptional customer service. Some finance organizations will evolve into full-fledged business service centers.
 
