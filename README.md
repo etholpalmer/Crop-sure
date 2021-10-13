@@ -17,7 +17,9 @@ When Sumerian merchants first recorded livestock sales on clay tablets, finance 
 
  ![mainpic](https://user-images.githubusercontent.com/83662813/137146813-b484bb42-ecbc-4c0b-8b34-947f88faf444.jpg)
  
-Digital disruption is changing what we do, and how we get things done, in countless ways. What does this have to do with the future of Finance? In short Everything! Here's the future we see. The eight predictions about digital transformation in Finance:
+ ---
+ 
+Digital disruption is changing what we do, and how we get things done, in countless ways. What does this have to do with the future of Finance? In short **Everything!** Here's the future we see. The eight predictions about digital transformation in Finance:
 
 **The finance Factory**
 
