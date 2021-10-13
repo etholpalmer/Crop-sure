@@ -6,7 +6,10 @@
   <a href="#The-role-of-finance">The role of finance</a> •
   <a href="#Finance-Cycles">Finance Cycles</a> •
   <a href="**Self-service**">Self-service</a> •
-  <a href="**Operating-Models**">**Operating Models**</a>
+  <a href="**Operating-Models**">Operating Models</a> •
+  <a href="###Enterprise-resource-planning">Enterprise resource planning</a> •
+  <a href="**Self-service**">Self-service</a> •
+  <a href="**Self-service**">Self-service</a> 
 </p>
 
 ## Project-Three
@@ -75,7 +78,7 @@ New service-delivery models will emerge as robots and algorithms join a more div
 Companies may see significant disruption in the offshoring and outsourcing space, with individual suppliers and their capabilities looking quite different than they do today. At the same time, the need to build dynamic, cross-functional teams will strain finance organizations that aren’t preparing now for what’s ahead. As with all changes, good leaders will be essential for navigating these transitions.
    
    
-**Enterprise resource planning**
+### Enterprise resource planning
 
 ![wallet-g7568139dc_1920](https://user-images.githubusercontent.com/83662813/137186464-27b9831e-dd72-4766-b183-de5a456d9ab7.jpg)
 
