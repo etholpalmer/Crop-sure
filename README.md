@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#Background">Background</a> •
-  <a href="#The-finance-Factory">The Finance Factory</a> •
+  <a href="**The-finance-Factory**">The Finance Factory</a> •
   <a href="#The-role-of-finance">The role of finance</a> •
   <a href="#Finance-Cycles">Finance Cycles</a> •
   <a href="**Self-service**">Self-service</a> •
