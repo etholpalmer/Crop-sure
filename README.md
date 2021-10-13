@@ -6,7 +6,7 @@
   <a href="#The-role-of-finance">The role of finance</a> •
   <a href="#Finance-Cycles">Finance Cycles</a> •
   <a href="**Self-service**">Self-service</a> •
-  <a href="#license">License</a>
+  <a href="**Operating-Models**">**Operating Models**</a>
 </p>
 
 ## Project-Three
