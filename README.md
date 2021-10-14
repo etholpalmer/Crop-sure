@@ -1,12 +1,12 @@
-<h1 align="center"> Fintech Capstone Project </h1>  
+<h1 align="center"> The Future of Financial Development </h1>  
 <h1 align="center">
  
 <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt="Nerd Fonts - OS Support"></a> 
 </h1>
 
-## Project-Three
+## Project-Three: Fintech Capstone Project
 
- ### The Future of Financial Development
+**Introduction**
  
 > When Sumerian merchants first recorded livestock sales on clay tablets, finance technology was born. Five thousand years later, technology has evolved into a new class of digital tools reshaping every aspect of the business. No matter what future entrepreneurs see for their finance organization, one thing is clear: That future is now. If they’re going to compete in the digital world, their organization needs to forecast and manage more effectively and become more efficient.
  
