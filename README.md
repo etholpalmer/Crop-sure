@@ -144,7 +144,12 @@ Implementing new technologies is relatively easy compared to changing their tale
 <h2 id="about-the-project"> :pencil: About The Project</h2>
  
  <p align="justify">
- 
+  
+ *
+ *
+ *
+ *
+  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
   <!-- PREREQUISITES -->
