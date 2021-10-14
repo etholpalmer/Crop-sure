@@ -7,6 +7,12 @@
 
 <p align="center"><img width=40% src="https://user-images.githubusercontent.com/83662813/137395649-694759ec-a57e-4b8f-87bf-62315946794c.png"></p>
 
+<h1 align="center">
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+></a> 
+ </h1>
+ 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 **Introduction**
