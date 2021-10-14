@@ -1,8 +1,8 @@
  <h1 align="center"> Fintech Capstone Project </h1> <br> 
- 
- <div align="center">
+ <h1 align="center">
  
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+ </h1>
 
 <p align="center">
   <a href="#Background">Background</a> •
@@ -15,7 +15,7 @@
   <a href="#Data">Data</a> •
   <a href="#Workforce-and-workplace">Workforce and workplace</a> • 
   <a href="#Key-Project-Features">Key Project Features</a> •
-  <a href="#References">References</a>  
+  <a href="#Research">Research</a>  
 </p>
 
 ## Project-Three
@@ -124,7 +124,7 @@ Implementing new technologies is relatively easy compared to changing their tale
 
 6.
 
-## References
+## Research
 
 
 
