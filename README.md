@@ -141,7 +141,8 @@ Implementing new technologies is relatively easy compared to changing their tale
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ABOUT THE PROJECT -->
-<h2 id="about-the-project"> :pencil: About The Project</h2>
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739629-f43cde80-df11-11eb-9033-c5d1d7194f03.png" width="50px" />
+<h2 id="about-the-project"> About The Project</h2>
  
  <p align="justify">
   
@@ -153,7 +154,8 @@ Implementing new technologies is relatively easy compared to changing their tale
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
   <!-- PREREQUISITES -->
-<h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
+  <img align="left" src="https://user-images.githubusercontent.com/65415371/124740780-04a18900-df13-11eb-8a53-ad66e031b55f.png" width="50px" />
+<h2 id="prerequisites"> Prerequisites</h2>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
@@ -172,7 +174,8 @@ The following open source packages are used in this project:
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ROADMAP -->
-<h2 id="roadmap"> :dart: Roadmap</h2>
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739746-10d91680-df12-11eb-86cd-9aa9494e01bd.png" width="50px" />
+<h2 id="roadmap"> Roadmap</h2>
  
  <p align="justify">
   
