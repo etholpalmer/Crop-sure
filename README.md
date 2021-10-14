@@ -10,7 +10,9 @@
   <a href="#Operating-Models">Operating Models</a> •
   <a href="#Enterprise-resource-planning">Enterprise resource planning</a> •
   <a href="#Data">Data</a> •
-  <a href="#Workforce-and-workplace">Workforce and workplace</a> 
+  <a href="#Workforce-and-workplace">Workforce and workplace</a> • 
+  <a href="#Key-Project-Features">Key Project Features</a> •
+  <a href="#References">References</a>  
 </p>
 
 ## Project-Three
@@ -106,4 +108,20 @@ Employees will be doing new things in new ways, some of which will make CFOs unc
 Implementing new technologies is relatively easy compared to changing their talent model. They’re obviously connected, but cultural and organizational shifts related to their workforce may take much more time and care to get right. 
 
 ## Key Project Features
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+## References
+
+
 
