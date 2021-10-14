@@ -5,8 +5,9 @@
 <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt="Nerd Fonts - OS Support"></a> 
 </h1>
 
-## Project-Three: Fintech Capstone Project
+<p align="center"><img width=40% src="https://user-images.githubusercontent.com/83662813/137395649-694759ec-a57e-4b8f-87bf-62315946794c.png"></p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 **Introduction**
  
 > When Sumerian merchants first recorded livestock sales on clay tablets, finance technology was born. Five thousand years later, technology has evolved into a new class of digital tools reshaping every aspect of the business. No matter what future entrepreneurs see for their finance organization, one thing is clear: That future is now. If they’re going to compete in the digital world, their organization needs to forecast and manage more effectively and become more efficient.
