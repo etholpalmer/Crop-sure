@@ -265,3 +265,6 @@ The following open source packages are used in this project:
 
 Group Members: ***Ethol Palmer, John Mari Mangahas, Keith Louis, Martin Anthony Mangahas, Ameera Gafoor, Grace Zai***
 
+
+ <br>
+✤ <i>This was the final project for the course; SCS FinTech Boot Camp (May 2021), at <a href="https://bootcamp.learn.utoronto.ca/fintech//">University of Toronto</a><i>
