@@ -4,20 +4,6 @@
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
  </h1>
 
-<p align="center">
-  <a href="#Background">Background</a> •
-  <a href="#The-finance-Factory">The Finance Factory</a> •
-  <a href="#The-role-of-finance">The role of finance</a> •
-  <a href="#Finance-Cycles">Finance Cycles</a> •
-  <a href="#Self-service">Self-service</a> •
-  <a href="#Operating-Models">Operating Models</a> •
-  <a href="#Enterprise-resource-planning">Enterprise resource planning</a> •
-  <a href="#Data">Data</a> •
-  <a href="#Workforce-and-workplace">Workforce and workplace</a> • 
-  <a href="#Key-Project-Features">Key Project Features</a> •
-  <a href="#Research">Research</a>  
-</p>
-
 ## Project-Three
 
  ### The Future of Financial Development
@@ -26,16 +12,48 @@
  
 ![blockchain-gd96dedea2_1920](https://user-images.githubusercontent.com/83662813/137159078-a2b4b084-8d66-4a32-8d44-59b44cbc1d51.jpg)
  
- Group Members: ***Ethol Palmer, John Mari Mangahas, Keith Louis, Martin Anthony Mangahas, Ameera Gafoor, Grace Zai***
+ <!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents"> :book: Table of Contents</h2>
 
-### Background
----
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Background"> ➤ Background</a></li>
+    <li><a href="#The-finance-Factory"> ➤ The Finance Factory</a></li>
+    <li><a href="#The-role-of-finance"> ➤ The role of finance</a></li>
+    <li><a href="#Finance-Cycles"> ➤ Finance Cycles</a></li>
+    <li><a href="#Self-service"> ➤ Self-service</a></li>
+    <li><a href="#Operating-Models"> ➤ Operating Models</a></li>
+    <li><a href="#Enterprise-resource-planning"> ➤ Enterprise resource planning</a></li>
+    <li><a href="#Data"> ➤ Data</a></li>
+    <li><a href="#Workforce-and-workplace"> ➤ Workforce and workplace</a></li>
+    <li><a href="about-the-project"> ➤ About The Project</a></li>
+    <li><a href="#Prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#Project-roadmap"> ➤ Project Roadmap</a></li>
+    <li>
+      <a href="#preprocessing"> ➤ Preprocessing</a>
+      <ul>
+        <li><a href="#preprocessed-data">Pre-processed data</a></li>
+        <li><a href="#statistical-feature">Statistical feature</a></li>
+        <li><a href="#topological-feature">Topological feature</a></li>
+      </ul>
+    </li>
+    <!--<li><a href="#experiments">Experiments</a></li>-->
+    <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
+    <li><a href="#references"> ➤ References</a></li>
+    <li><a href="#contributors"> ➤ Contributors</a></li>
+  </ol>
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ 
+ ### Background
 
 ***As a group we embarked on a journey to utilize the knowledge gathered of the last six months and apply our understanding of the Fintech industry, it's implications and applications on the world's financial sector. In this project, we will be partaking in a deep dive of what's to come from crytography, smart contracts, decentralize finance, blockchain and crytocurrencies. We are all apprehensive of our knowledge of the Fintech industry, it's growth from the late 1990s, and it's presence in all walks of life. This has proven to be an exciting endeavour and we do hope that enthusiasm shown through.***
 
  ![mainpic](https://user-images.githubusercontent.com/83662813/137146813-b484bb42-ecbc-4c0b-8b34-947f88faf444.jpg)
  
- ---
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
 Digital disruption is changing what we do, and how we get things done, in countless ways. What does this have to do with the future of Finance? In short **Everything!** Here's the future we see. The eight predictions about digital transformation in Finance:
 
@@ -109,6 +127,60 @@ Data problems hide beneath the surface for many CFOs, some of whom don’t fully
 Employees will be doing new things in new ways, some of which will make CFOs uncomfortable. Finance talent models are evolving quickly, with a premium placed on data scientists, business analysts, and storytellers. This represents a dramatic shift for many finance organizations. To get ready, companies will need to make sure that their new hires represent the future they’re striving for. Important qualities include a strong customer service orientation, flexibility, and good collaboration skills—in addition to the technical capabilities needed for specific jobs. Also, all of their people should be able to contribute to elevating the value of finance in terms of communication, impact, and influence. They absolutely have to make every new hire count.
 
 Implementing new technologies is relatively easy compared to changing their talent model. They’re obviously connected, but cultural and organizational shifts related to their workforce may take much more time and care to get right. 
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ABOUT THE PROJECT -->
+<h2 id="about-the-project"> :pencil: About The Project</h2>
+ 
+ <p align="justify">
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ROADMAP -->
+<h2 id="roadmap"> :dart: Roadmap</h2>
+ 
+ <p align="justify">
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- PREPROCESSING -->
+<h2 id="preprocessing"> :hammer: Preprocessing</h2>
+ 
+ <p align="justify">
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- PRE-PROCESSED DATA -->
+<h2 id="preprocessed-data"> :diamond_shape_with_a_dot_inside: Pre-processed data</h2>
+ 
+ <p align="justify">
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- STATISTICAL FEATURE -->
+<h2 id="statistical-feature"> :large_orange_diamond: Statistical feature</h2>
+ 
+ <p align="justify">
+ 
+ <!-- PREREQUISITES -->
+<h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
+
+<!--This project is written in Python programming language. <br>-->
+The following open source packages are used in this project:
+* Numpy
+* Pandas
+* Matplotlib
+* 
+*
+*
+* 
+*
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Key Project Features
 
@@ -123,8 +195,27 @@ Implementing new technologies is relatively easy compared to changing their tale
 5.
 
 6.
+ 
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Research
+<!-- RESULTS AND DISCUSSION -->
+<h2 id="results-and-discussion"> :mag: Results and Discussion</h2>
 
+<p align="justify">
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- REFERENCES -->
+<h2 id="references"> :books: References</h2>
+ 
+ <p align="justify">
+ 
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- CONTRIBUTORS -->
+<h2 id="contributors"> :scroll: Contributors</h2>
+
+Group Members: ***Ethol Palmer, John Mari Mangahas, Keith Louis, Martin Anthony Mangahas, Ameera Gafoor, Grace Zai***
 
