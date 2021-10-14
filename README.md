@@ -13,7 +13,8 @@
 ![blockchain-gd96dedea2_1920](https://user-images.githubusercontent.com/83662813/137159078-a2b4b084-8d66-4a32-8d44-59b44cbc1d51.jpg)
  
  <!-- TABLE OF CONTENTS -->
-<h2 id="table-of-contents"> :book: Table of Contents</h2>
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124740340-9eb50180-df12-11eb-9295-e33ac2752c57.png" width="50px" />
+<h2 id="table-of-contents"> Table of Contents</h2>
 
 <details open="open">
   <summary>Table of Contents</summary>
