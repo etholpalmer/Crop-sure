@@ -169,7 +169,7 @@ The following open source packages are used in this project:
 * Numpy
 * Pandas
 * Matplotlib
-* 
+* Solidity
 *
 *
 * 
