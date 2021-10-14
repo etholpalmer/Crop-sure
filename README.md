@@ -4,7 +4,6 @@
 <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt="Nerd Fonts - OS Support"></a> 
 </h1>
 
-
 ## Project-Three
 
  ### The Future of Financial Development
