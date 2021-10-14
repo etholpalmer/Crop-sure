@@ -1,7 +1,7 @@
-<h1 align="center"> Fintech Capstone Project </h1> <br> 
+<h1 align="center"> Fintech Capstone Project </h1>  
 <h1 align="center">
  
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 </h1>
 
 ## Project-Three
