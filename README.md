@@ -224,7 +224,7 @@ The following open source packages are used in this project:
 
 <!-- :paw_prints:-->
 <!-- KEY PROJECT FEATURES -->
-<h2 id="key-project-features"> :cactus: Key Project Features</h2>
+<h2 id="key-project-features"> :clipboard: Key Project Features</h2>
 
 1.
 
