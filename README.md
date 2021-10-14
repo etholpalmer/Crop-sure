@@ -1,5 +1,4 @@
-<p align="center"><img width=75% src="https://user-images.githubusercontent.com/83662813/137393969-57054884-cb03-4729-8581-2b70872353d4.png"></p>
- 
+<p align="center"><img width=75% src="https://user-images.githubusercontent.com/83662813/137393969-57054884-cb03-4729-8581-2b70872353d4.png"></p> 
  <h1 align="center">
  
 <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt="Nerd Fonts - OS Support"></a> 
