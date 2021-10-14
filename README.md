@@ -1,7 +1,7 @@
 <h1 align="center"> Fintech Capstone Project </h1> <br> 
 <h1 align="center">
  
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 </h1>
 
 ## Project-Three
@@ -187,7 +187,8 @@ The following open source packages are used in this project:
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- PREPROCESSING -->
-<h2 id="preprocessing"> :hammer: Preprocessing</h2>
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124740290-8e048b80-df12-11eb-9c29-654c9cb4561b.png" width="50px" />
+<h2 id="preprocessing"> Preprocessing</h2>
  
  <p align="justify">
   
@@ -200,7 +201,8 @@ The following open source packages are used in this project:
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- PRE-PROCESSED DATA -->
-<h2 id="preprocessed-data"> :diamond_shape_with_a_dot_inside: Pre-processed data</h2>
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124740742-f94e5d80-df12-11eb-8ca9-7d2ad4f56e3d.png" width="50px" />
+<h2 id="preprocessed-data"> Pre-processed data</h2>
  
  <p align="justify">
   
@@ -212,7 +214,8 @@ The following open source packages are used in this project:
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- STATISTICAL FEATURE -->
-<h2 id="statistical-feature"> :large_orange_diamond: Statistical feature</h2>
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124741011-3581be00-df13-11eb-8d9a-b44e6fe248a8.png" width="50px" />
+<h2 id="statistical-feature"> Statistical feature</h2>
  
  <p align="justify">
   
@@ -225,9 +228,9 @@ The following open source packages are used in this project:
  
  
 
-<!-- :paw_prints:-->
 <!-- KEY PROJECT FEATURES -->
-<h2 id="key-project-features"> :clipboard: Key Project Features</h2>
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739888-2cdcb800-df12-11eb-8952-5be64764a7aa.png" width="50px" />
+<h2 id="key-project-features"> Key Project Features</h2>
 
 1.
 
@@ -245,7 +248,8 @@ The following open source packages are used in this project:
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- RESULTS AND DISCUSSION -->
-<h2 id="results-and-discussion"> :mag: Results and Discussion</h2>
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740181-74634400-df12-11eb-929c-9aa1bf060806.png" width="50px" />
+<h2 id="results-and-discussion"> Results and Discussion</h2>
 
 <p align="justify">
  
@@ -257,7 +261,8 @@ The following open source packages are used in this project:
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- REFERENCES -->
-<h2 id="references"> :books: References</h2>
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740898-1b47e000-df13-11eb-9518-037652dceeb8.png" width="50px" />
+<h2 id="references"> References</h2>
  
  <p align="justify">
   
@@ -269,7 +274,8 @@ The following open source packages are used in this project:
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CONTRIBUTORS -->
-<h2 id="contributors"> :scroll: Contributors</h2>
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740842-108d4b00-df13-11eb-99f7-c36edc39b2a0.png" width="50px" />
+<h2 id="contributors"> Contributors</h2>
 
 Group Members: ***Ethol Palmer, John Mari Mangahas, Keith Louis, Martin Anthony Mangahas, Ameera Gafoor, Grace Zai***
 
