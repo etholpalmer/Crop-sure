@@ -35,7 +35,7 @@
       <ul>
         <li><a href="#preprocessed-data">Pre-processed data</a></li>
         <li><a href="#statistical-feature">Statistical feature</a></li>
-        <li><a href="#topological-feature">Topological feature</a></li>
+        <li><a href="#Key-Project-Features">Key Project Features</a></li>
       </ul>
     </li>
     <!--<li><a href="#experiments">Experiments</a></li>-->
@@ -56,6 +56,8 @@
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
 Digital disruption is changing what we do, and how we get things done, in countless ways. What does this have to do with the future of Finance? In short **Everything!** Here's the future we see. The eight predictions about digital transformation in Finance:
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### The Finance Factory
 
@@ -64,7 +66,8 @@ Digital disruption is changing what we do, and how we get things done, in countl
 Transactions will be touchless as automation and blockchain reach deeper into finance operations. In the years ahead, cloud-based ERP, automation, and cognitive innovation will continue apace, creating opportunities to radically simplify processes and free up people. Adding blockchain to the mix will only accelerate this trend. As this transition picks up speed, the capacity of humans to add value will be unleashed.
 
 Some find it interesting to speculate about finance disappearing under the crush of digital disruption, but we don’t see that happening. Yes, finance will likely be leaner, but that will mostly be a function of headcount in operational finance (order-to-cash, procure-to-pay, transactional accounting, etc.). Meanwhile, expectations for support from business finance (business partnering, reporting, planning, budgeting, forecasting, etc.) and specialized finance (tax, treasury, IR, etc.) will continue to grow.
-   
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)   
 
 ### The role of Finance
 
@@ -73,7 +76,8 @@ Some find it interesting to speculate about finance disappearing under the crush
 With Operations largely automated, Finance will double down on business insights and service. Success is not assured. Whether finance continues to direct the resources currently under its control will be dependent on its ability to add value. That will require quality insights and exceptional customer service. Some finance organizations will evolve into full-fledged business service centers.
 
 Companies know that sharing knowledge across disciplines is a good thing, even if it creates headaches. Learn what it takes to make the most of blurring boundaries.
-   
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)   
      
 ### Finance Cycles
 
@@ -82,7 +86,8 @@ Companies know that sharing knowledge across disciplines is a good thing, even i
 Finance goes real time. Periodic reporting will no longer drive operations and decisions, if it ever did. When both actuals and forecasts can be produced instantly on demand, traditional cycles become less relevant. The old distinction between operational and analytical data begins to disappear. Finance organizations will still need to meet external demands for cyclical information, but outside investors may also want more frequent performance information. Leading organizations will be operating with a new mantra: There is no close. You’re not forecasting once a month or quarterly. It’s all happening in real-time.
 
 Many finance cycles today are driven by technology and data-processing limitations. Things happen on a regular schedule because that’s the only way they can happen. When information becomes instantly available to those who need it, traditional cycles become unnecessary. That frees people up to focus on discovering new insights and acting on them.
-   
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)   
    
 ### Self-service
 
@@ -91,7 +96,8 @@ Many finance cycles today are driven by technology and data-processing limitatio
 Self-service will become the norm. Finance will be uneasy about this. There are plenty of business people who don’t need hand-holding when it comes to basic finance. If they could get their questions answered by a digital voice on their smart phones, they’d be happy to do so. Activities ranging from budget queries to report production and more will be automated. Over time, smart agents will learn what kinds of business information an individual needs, and deliver that information proactively. As that future unfolds, data in spreadsheets will be replaced by visually rich information that is intuitively accessible and easy-to-use.
 
 With growing expectations for responsiveness and quality from finance, getting self-service right is paramount. When your customers are having to take care of themselves, the last thing finance needs is for them to be frustrated or unhappy.
-   
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
    
 ### Operating Models
 
@@ -101,7 +107,8 @@ New service-delivery models will emerge as robots and algorithms join a more div
 
 Companies may see significant disruption in the offshoring and outsourcing space, with individual suppliers and their capabilities looking quite different than they do today. At the same time, the need to build dynamic, cross-functional teams will strain finance organizations that aren’t preparing now for what’s ahead. As with all changes, good leaders will be essential for navigating these transitions.
    
-   
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
+ 
 ### Enterprise resource planning
 
 <p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137186464-27b9831e-dd72-4766-b183-de5a456d9ab7.jpg"></p>
@@ -110,7 +117,8 @@ Finance applications and microservices challenge traditional ERP. Big venders wi
 
 Finance is entering a golden age of technology. As cloud becomes the norm for ERP, finance applications and microservices will proliferate. You’ll be able to drastically reduce the complexity and cost of technology, without sacrificing functionality.
    
-   
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
 ### Data
 
 <p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137186547-c5d76f92-ed10-439b-bc76-a5a8cdb7ab00.jpg"></p>
@@ -118,7 +126,9 @@ Finance is entering a golden age of technology. As cloud becomes the norm for ER
 The proliferation of APIs will drive data standardization, but it won't be enough. Companies will still be struggling to clean up their data messes. Few companies are doing the hard work needed to align and integrate data—which means they won’t capture the full value of digital transformation. Those hoping for a silver bullet to solve their data problems will be disappointed. Automation and cognitive will make it easier to get the work done, but it’s still going to be hard and tedious. What are we talking about? Commas, abbreviations, data-entry fields, nomenclature, and hundreds of similar factors. It’s not glamorous, and it’s not glitzy. But it is important.
 
 Data problems hide beneath the surface for many CFOs, some of whom don’t fully appreciate the heavy lifting required to fulfill their requests. That’s partly because the problems involve technical issues, and partly because there’s little motivation for people to elevate the problems to the corner office. No one wants to be the bearer of bad tidings.
-   
+  
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
    
 ### Workforce and workplace
 
@@ -136,34 +146,8 @@ Implementing new technologies is relatively easy compared to changing their tale
  <p align="justify">
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- ROADMAP -->
-<h2 id="roadmap"> :dart: Roadmap</h2>
- 
- <p align="justify">
- 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- PREPROCESSING -->
-<h2 id="preprocessing"> :hammer: Preprocessing</h2>
- 
- <p align="justify">
- 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- PRE-PROCESSED DATA -->
-<h2 id="preprocessed-data"> :diamond_shape_with_a_dot_inside: Pre-processed data</h2>
- 
- <p align="justify">
- 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- STATISTICAL FEATURE -->
-<h2 id="statistical-feature"> :large_orange_diamond: Statistical feature</h2>
- 
- <p align="justify">
- 
- <!-- PREREQUISITES -->
+  
+  <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
@@ -182,7 +166,60 @@ The following open source packages are used in this project:
  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Key Project Features
+<!-- ROADMAP -->
+<h2 id="roadmap"> :dart: Roadmap</h2>
+ 
+ <p align="justify">
+  
+  *
+  *
+  *
+  *
+  
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- PREPROCESSING -->
+<h2 id="preprocessing"> :hammer: Preprocessing</h2>
+ 
+ <p align="justify">
+  
+  *
+  *
+  *
+  *
+  
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- PRE-PROCESSED DATA -->
+<h2 id="preprocessed-data"> :diamond_shape_with_a_dot_inside: Pre-processed data</h2>
+ 
+ <p align="justify">
+  
+  *
+  *
+  *
+  *
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- STATISTICAL FEATURE -->
+<h2 id="statistical-feature"> :large_orange_diamond: Statistical feature</h2>
+ 
+ <p align="justify">
+  
+  *
+  *
+  *
+  *
+  
+  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ 
+
+<!-- :paw_prints:-->
+<!-- KEY PROJECT FEATURES -->
+<h2 id="key-project-features"> :cactus: Key Project Features</h2>
 
 1.
 
@@ -203,15 +240,24 @@ The following open source packages are used in this project:
 <h2 id="results-and-discussion"> :mag: Results and Discussion</h2>
 
 <p align="justify">
-
+ 
+*
+*
+*
+*
+ 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- REFERENCES -->
 <h2 id="references"> :books: References</h2>
  
  <p align="justify">
- 
- 
+  
+ *
+ *
+ *
+ * 
+  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CONTRIBUTORS -->
