@@ -177,10 +177,11 @@ The following open source packages are used in this project:
 * Pandas
 * Matplotlib
 * Solidity
-*
-*
-* 
-*
+* Python
+* Django
+* SQL
+* Truffle Suite
+* Sublime 
  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
