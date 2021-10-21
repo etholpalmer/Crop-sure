@@ -130,6 +130,40 @@ Finance is entering a golden age of technology. As cloud becomes the norm for ER
    
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
+ ### Generic Insurance Framework
+ 
+ <p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/138323126-fb8b15c9-810d-4230-b674-fcde0f927fb5.jpg"></p>
+ 
+ The Generic Insurance Framework represents a combined codebase for the Decentralized Insurance Platform, a basic implementation that enables users to develop blockchain-based applications.
+
+The basic idea behind the GIF is to abstract the generic parts shared across multiple different products and leave only product-specific parts, such as risk model, pricing, and payout configurations, to be adjusted. The goal is to enable quick and easy deployment of working products.
+
+In its core, the GIF accumulates a number of componets:
+
+* Core smart contracts
+ 
+* Core microservices
+ 
+* Product-specific smart contracts
+ 
+* Product-specific microservices
+ 
+Essentially, the GIF has two major layers — a smart contracts one and a utility one — with DIP Foundation and partners being able to contribute to both.
+
+The smart contracts layer is designed in the way that any blockchain product built on top of the GIF can be easily implemented into any network supporting the Ethereum Virtual Machine. Any product owner is able to create a full-featured decentralized app by adding a couple of simple domain-specific contracts to a number of generic ones that the framework provides.
+
+The core contracts are deployed on-chain and operate by an instance operator as a shared service for many different products. The instance operator can be a decentralized organization (DAO) or a more traditional legal entity. A product, working on top of the GIF, is a smart contract (or set of smart contracts) connected to the framework’s core contracts through a unique entry point.
+
+The DIP declares the underlying principles and requirements based on which the architecture of smart contracts is developed:
+
+Generic Insurance Framework provides a unified interface, which connects a product to data and decision providers (oracles).
+A product contract utilizes a simple and clear interface for integration with the GIF.
+Once the agreement is signed and a policy token is issued, parties cannot change the expected policy flow behavior. A policy life cycle should operate on the contracts, which this policy was issued by.
+Core contracts can be upgraded. This is needed to make bug fixes and add new features.
+ 
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
 ### Data
 
 <p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137186547-c5d76f92-ed10-439b-bc76-a5a8cdb7ab00.jpg"></p>
@@ -244,18 +278,23 @@ The following open source packages are used in this project:
  <img align="left" src="https://user-images.githubusercontent.com/65415371/124739888-2cdcb800-df12-11eb-8952-5be64764a7aa.png" width="50px" />
 <h2 id="key-project-features"> Key Project Features</h2>
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
+1. Core smart contracts
  
+2. Core microservices
+ 
+3. Product-specific smart contracts
+ 
+4. Product-specific microservices
+ 
+5. Crowdsale Token
+ 
+6. Develop blockchain-based application
+ 
+7. Website Interface for Client Interaction
+ 
+8. Generic Insurance Application on website
+
+9. Readme.md file
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
