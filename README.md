@@ -378,6 +378,8 @@ The “cropsure” team concluded that tokenization may be the solution for thes
  * [Django Resource](https://medium.com/coinmonks/how-i-integrated-django-with-blockchain-and-built-a-decentralized-application-dapp-f104ae551e12)
  * [Etherisc](https://github.com/etherisc/GIF)
  * [Decentralized Insurance](https://blog.etherisc.com/etherisc-tutorial-series-part-one-understanding-decentralized-insurance-and-the-etherisc-generic-d8be9ede930)
+ * [rapidapi](https://rapidapi.com/hub)
+ * [Zillow](https://www.zillow.com/) 
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
