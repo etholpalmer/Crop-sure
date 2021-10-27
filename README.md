@@ -270,7 +270,8 @@ The following open source packages are used in this project:
 Links the smart contract, API, and user interface, allowing end users to input their data and receive usable output. The client can apply for the desired coverage from the website allowing ease of implementation after a series of real time verification processes. 
   
   **API - Property Value**
- 
+API provides a robust and instant access to the necessary data that is used for estimating the premiums. RapidAPI is able to take an address and return a realistic market value for the property at that address by connecting to Zillow, the leading real estate marketplace. Thus, the clients could receive an quote that reflects the actual risk of their business.
+  
   **ChainLink - Triguring Payout**
   ???
   
