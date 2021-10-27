@@ -266,10 +266,16 @@ The following open source packages are used in this project:
  
  <p align="justify">
   
-  *
-  *
-  *
-  *
+  **Web Interface**
+Links the smart contract, API, and user interface, allowing end users to input their data and receive usable output. The client can apply for the desired coverage from the website allowing ease of implementation after a series of real time verification processes. 
+  
+  **API - Property Value**
+ 
+  **ChainLink - Triguring Payout**
+  ???
+  
+  ** Solidity Contracts**
+  
   
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
@@ -365,7 +371,7 @@ The “cropsure” team concluded that tokenization may be the solution for thes
  
  <p align="justify">
   
- * https://www.iii.org/article/understanding-crop-insurance
+ * [Crop Insurance]https://www.iii.org/article/understanding-crop-insurance
  * https://www.reliancegeneral.co.in/Insurance/Knowledge-Center/Insurance-Reads/What-are-the-Risks-Covered-Under-a-Fire-Insurance-Policy.aspx
  * https://www.investopedia.com/terms/h/hurricane-deductible.asp
  * https://www.moneysense.ca/spend/insurance/home-insurance/need-flood-insurance/
