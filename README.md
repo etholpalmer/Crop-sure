@@ -371,13 +371,13 @@ The “cropsure” team concluded that tokenization may be the solution for thes
  
  <p align="justify">
   
- * [Crop Insurance]https://www.iii.org/article/understanding-crop-insurance
- * https://www.reliancegeneral.co.in/Insurance/Knowledge-Center/Insurance-Reads/What-are-the-Risks-Covered-Under-a-Fire-Insurance-Policy.aspx
- * https://www.investopedia.com/terms/h/hurricane-deductible.asp
- * https://www.moneysense.ca/spend/insurance/home-insurance/need-flood-insurance/
- * https://medium.com/coinmonks/how-i-integrated-django-with-blockchain-and-built-a-decentralized-application-dapp-f104ae551e12
- * https://github.com/etherisc/GIF
- * https://blog.etherisc.com/etherisc-tutorial-series-part-one-understanding-decentralized-insurance-and-the-etherisc-generic-d8be9ede930
+ * [Crop Insurance](https://www.iii.org/article/understanding-crop-insurance)
+ * [What are Insurance Risk](https://www.reliancegeneral.co.in/Insurance/Knowledge-Center/Insurance-Reads/What-are-the-Risks-Covered-Under-a-Fire-Insurance-Policy.aspx)
+ * [Hurricane Insurance](https://www.investopedia.com/terms/h/hurricane-deductible.asp)
+ * [Flood Insurance](https://www.moneysense.ca/spend/insurance/home-insurance/need-flood-insurance/)
+ * [Django Resource](https://medium.com/coinmonks/how-i-integrated-django-with-blockchain-and-built-a-decentralized-application-dapp-f104ae551e12)
+ * [Etherisc](https://github.com/etherisc/GIF)
+ * [Decentralized Insurance](https://blog.etherisc.com/etherisc-tutorial-series-part-one-understanding-decentralized-insurance-and-the-etherisc-generic-d8be9ede930)
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
