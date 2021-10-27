@@ -191,11 +191,12 @@ Implementing new technologies is relatively easy compared to changing their tale
  
  <p align="justify">
   
- *
- *
- *
- *
-  
+Cropsure is a Decentralize Finance (DeFi) insurance company that allows farmers to compare and customize crop insurance and the deductibles that suit their needs. The daunting task of having the proper and trusted insurance coverage through the traditional insurance companies provides challenges such as they are too expensive and time consuming to implement. Using Blockchain Technology, Cropsure has cut out the middleman, lower overhead costs and created a transparent system that connects the client with all applicable quotes available to them, for ease of decision.
+   
+Cropsure initial targeted market provided the necessary experience in the insurance market. This allowed the company to expand their demographics giving a larger pool of candidates showed the need for our product and it’s cost effective advantages for our clients.
+   
+Cropsure values transparency and being able to serve their customers needs to the best of their ability. It is paramount to the company that their clients’ livelihood and assets are protected in the event of an unforeseen circumstances. Regardless of the coverage chosen, they ensure a speedy and efficient payout. Whether its flood, fire or hurricane endured damages, Cropsure has you covered for all possibilities.
+   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
   <!-- PREREQUISITES -->
@@ -225,10 +226,10 @@ The following open source packages are used in this project:
  
  <p align="justify">
   
-  *
-  *
-  *
-  *
+  * STRATEGY: DeFi Insurance
+  * REVIEW AND MANAGE IDEAS: Research DeFi insurance companies and tokens that fall in line with DeFi insurance for farmers.
+  * DEFINE FEATURES AND REQUIREMENTS: Create a smart contract that links the client to other companies on the blockchain to help customers find better quotes quickly.
+  * ORGANIZE INTO RELEASES: Create a website that allows clients to access and navigate to the pertinent information.
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -259,7 +260,7 @@ The following open source packages are used in this project:
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- STATISTICAL FEATURE -->
+<!-- DELIVERABLES -->
  <img align="left" src="https://user-images.githubusercontent.com/65415371/124741011-3581be00-df13-11eb-8d9a-b44e6fe248a8.png" width="50px" />
 <h2 id="statistical-feature"> Statistical feature</h2>
  
@@ -317,10 +318,13 @@ The following open source packages are used in this project:
  
  <p align="justify">
   
- *
- *
- *
- * 
+ * https://www.iii.org/article/understanding-crop-insurance
+ * https://www.reliancegeneral.co.in/Insurance/Knowledge-Center/Insurance-Reads/What-are-the-Risks-Covered-Under-a-Fire-Insurance-Policy.aspx
+ * https://www.investopedia.com/terms/h/hurricane-deductible.asp
+ * https://www.moneysense.ca/spend/insurance/home-insurance/need-flood-insurance/
+ * https://medium.com/coinmonks/how-i-integrated-django-with-blockchain-and-built-a-decentralized-application-dapp-f104ae551e12
+ * https://github.com/etherisc/GIF
+ * https://blog.etherisc.com/etherisc-tutorial-series-part-one-understanding-decentralized-insurance-and-the-etherisc-generic-d8be9ede930
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
