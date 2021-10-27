@@ -1,0 +1,8 @@
+Chainlink Updated Imports:
+
+import "https://github.com/smartcontractkit/chainlink/contracts/src/v0.4/ChainlinkClient.sol";
+import "https://github.com/smartcontractkit/chainlink/contracts/src/v0.4/vendor/Ownable.sol";
+import "https://github.com/smartcontractkit/chainlink/contracts/src/v0.4/interfaces/LinkTokenInterface.sol";
+import "https://github.com/smartcontractkit/chainlink/contracts/src/v0.4/interfaces/AggregatorInterface.sol";
+import "https://github.com/smartcontractkit/chainlink/contracts/src/v0.4/vendor/SafeMathChainlink.sol";
+import "https://github.com/smartcontractkit/chainlink/contracts/src/v0.4/interfaces/AggregatorV3Interface.sol";

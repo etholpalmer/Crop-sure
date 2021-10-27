@@ -1,0 +1,119 @@
+[
+	{
+		"constant": true,
+		"inputs": [
+			{
+				"name": "_address",
+				"type": "address"
+			}
+		],
+		"name": "getPolicy",
+		"outputs": [
+			{
+				"name": "name",
+				"type": "string"
+			},
+			{
+				"name": "propertyaddress",
+				"type": "string"
+			},
+			{
+				"name": "propertyvalue",
+				"type": "uint256"
+			},
+			{
+				"name": "_coverageamount",
+				"type": "uint256"
+			},
+			{
+				"name": "_startDatemmddyear",
+				"type": "uint256"
+			},
+			{
+				"name": "_expiryDatemmddyear",
+				"type": "uint256"
+			},
+			{
+				"name": "_premium",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "getRegistry",
+		"outputs": [
+			{
+				"name": "",
+				"type": "address[]"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "_name",
+				"type": "string"
+			},
+			{
+				"name": "_acc_address",
+				"type": "address"
+			},
+			{
+				"name": "_propertyaddress",
+				"type": "string"
+			},
+			{
+				"name": "_propertyvalue",
+				"type": "uint256"
+			},
+			{
+				"name": "_annualproduction",
+				"type": "uint256"
+			},
+			{
+				"name": "_equipmentreplacementvalue",
+				"type": "uint256"
+			},
+			{
+				"name": "_yearsinbusiness",
+				"type": "uint256"
+			},
+			{
+				"name": "_coverageamount",
+				"type": "uint256"
+			},
+			{
+				"name": "_startDatemmddyear",
+				"type": "uint256"
+			},
+			{
+				"name": "_expiryDatemmddyear",
+				"type": "uint256"
+			},
+			{
+				"name": "_premium",
+				"type": "uint256"
+			}
+		],
+		"name": "Application",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	}
+]
