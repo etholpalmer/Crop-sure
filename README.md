@@ -305,10 +305,56 @@ The following open source packages are used in this project:
 
 <p align="justify">
  
-*
-*
-*
-*
+Together with the reduction of transaction costs comes an asymmetry of information, which leads to a further increase of costs and to incredible profits for the big insurance companies. The unbounded collection of customer data and the exclusive exploitation of this data is a consequence of this imbalanced relationship. It creates an “unfair competitive advantage” for existing companies: companies with big data vaults can offer better products, and thus further optimize their data base. One of the core goals of a decentralized insurance platform is the disruption of this circle, giving back to customers the ownership of their data.
+ 
+The three elements of an insurance policy; pooling or risk, risk transfer, and efficient administration are necessary. You can’t have insurance without each of them. For the purposes of this capstone project, we called them: 
+
+1. expected value of the risk 
+ 
+2. capital costs for long tail risks 
+ 
+3. transaction costs 
+ 
+Our research showed that, a community may not wish to generate profit from the first element. The second element yields a risk fee for binding capital which depends on the structure of the particular risk: It is typically lower if the risks are granular and uncorrelated; it is typically higher if the risks are clustered or correlated. The third one depends on the complexity of the process. A simple and highly standardized insurance “product” has a smaller transaction complexity than a more complicated, non-standardized one. This will reflect in lower transaction costs. The three elements are completely independent of the underlying technology, economic environment, or currencies. They are the atomic building blocks of every risk-sharing system. 
+ 
+There is a fourth element - Reinsurance. The purpose of reinsurance is to reduce the cost of risk diversification by categorizing and securitizing different risks. Reinsurance and “wholesale” risk transfer enabled by reinsurance adds another layer of complexity, and therefore we as a group decided against discussing reinsurance in this project.
+ 
+ As an additional aspect we have seen the information asymmetry which is inherent in the traditional insurance systems, and which is undesirable. The distribution of expected value (element 1) and capital costs for long-tail-risks among participants (element 2) is inevitable and not specific for a blockchain solution. Therefore, we chose to focus on the third element.
+ 
+Blockchain is essentially - among other aspects - a way to solve the transaction cost problem without firms. Without the “design pattern” of firms, transaction costs are subject to combinatorial explosion. The coordination costs for “n” participants are roughly of Order “O (n^2)” and firms reduce this to “O(n)”. Because of this huge gain in efficiency, firms have many ways to hide profits in the transaction costs, and on the other side internal inefficiencies don’t show up fast. Transaction costs also appear in another context: regulations, which are deemed necessary to protect customers in a context with built in conflicts of interest. Regulations form a very effective “competitor” barrier to entry. While insurance companies often complain about the burdens of regulations, they don’t have much interest in reducing these burdens, as they discourage new competitors from entering the market.
+ 
+While the current insurance business has evolved over centuries, and is optimized in many aspects, we have seen that it has severe shortcomings to the disadvantage of customers. First, an alternative system should of course offer the basic ingredients of any insurance system: covering expected losses, covering long tail risks, and covering of necessary transaction costs. Obviously, we need ways to capitalize such a system, and we need a system to reduce transaction costs to a minimum.
+ 
+Transaction costs cannot be eliminated completely. But open markets have proven to be a solution for these challenges, and therefore, we propose a market-based approach with two components: - an open marketplace for capitalization of risks - an open marketplace for insurance related services This is where blockchain comes into play: a decentralized solution on blockchain can implement such open marketplaces in a way that is collusion resistant and has no single points of failure. We can watch the emergence of many such marketplaces for different domains, like computation, file storage, exchange of assets; and insurance is just another domain in this respect.
+ 
+More specific, blockchain can help to solve four main problems which pile up costs in traditional insurance companies: 
+ 
+1. Coordination (“managerial”) costs. 
+ 
+2. Conflict of interest between customers and company.
+ 
+3. Information asymmetry between customers and company. 
+ 
+4. Access to risk pool
+ 
+As a group, we learned that, to offer an alternative to traditional company-centric insurance systems, we can identify some requirements and consequences for implementing a decentralized insurance protocol.
+ 
+### Requirements and consequences of a decentralized implementation ###
+ 
+1.	We need a protocol and not just an (decentralized) application. Insurance is way too complex to be covered by a single application and needs some means to incentivize participants to use it. While a single contract can handle a single product, this singularity will not generate the network effects which are desirable to form multiple large pools of similar risks needed to get the benefits of the “law of large numbers” working. Decentralized insurance will work only if the value chain is decomposed and there is a way different participants can cooperate on the process in an interoperable way.
+ 
+2.	A decentralized insurance protocol can replace “the firm”, by implementing a standardized set of rules for how stakeholders in the system interact with smart contracts and with each other using the protocol. By this, most of the coordination costs are replaced by autonomous and automated contracts and procedures and enforce efficiency by open market mechanisms. At the same time, a protocol does not impose a fixed set of code to the participants but allows for flexible extension and interpretation of the basic rules.
+ 
+3. The development and operation of a protocol needs funding. Even if we can drastically reduce the coordination costs, there are still the costs for the initiation of the system - e.g., acquisition of licenses, development of smart contracts, audits, as well as costs for agents at the “rim” of the system which we cannot eliminate completely. Therefore, we need a way to collect these costs from the ultimate customers and distribute them amongst these agents.
+ 
+4.	We also need a way to calculate and distribute the expected value of the risk and the capital costs for covering long tail risks amongst the customers.
+ 
+The “cropsure” team concluded that tokenization may be the solution for these requirements - but only if the token is intrinsically required for the protocol to operate efficiently, i.e. “baked into” the protocol itself and usage of the protocol is only possible via tokens. If the token were not intrinsic to the use of the platform, then some new actor could replicate the protocol except without the token and migrate users to the new protocol without the friction of a purely "rent seeking" token.
+
+
+
+
+
  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
