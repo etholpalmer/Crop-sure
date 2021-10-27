@@ -349,6 +349,7 @@ As a group, we learned that, to offer an alternative to traditional company-cent
  
 4.	We also need a way to calculate and distribute the expected value of the risk and the capital costs for covering long tail risks amongst the customers.
  
+![favacon](https://user-images.githubusercontent.com/83662813/139078488-e171f8e0-6988-4362-b79f-d95081e53015.png)
 The “cropsure” team concluded that tokenization may be the solution for these requirements - but only if the token is intrinsically required for the protocol to operate efficiently, i.e. “baked into” the protocol itself and usage of the protocol is only possible via tokens. If the token were not intrinsic to the use of the platform, then some new actor could replicate the protocol except without the token and migrate users to the new protocol without the friction of a purely "rent seeking" token.
 
 
