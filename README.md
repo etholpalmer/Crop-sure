@@ -4,7 +4,7 @@
 <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt="Nerd Fonts - OS Support"></a> 
 </h1>
 
-<p align="center"><img width=40% src="https://user-images.githubusercontent.com/83662813/137395649-694759ec-a57e-4b8f-87bf-62315946794c.png"></p>
+<p align="center"><img width=40% src="https://user-images.githubusercontent.com/83662813/139084384-3f881615-b1fa-4db0-913e-ae74a232c37f.png"></p>
 
 <h1 align="center">
 
@@ -226,10 +226,10 @@ The following open source packages are used in this project:
  
  <p align="justify">
   
-  * STRATEGY: DeFi Insurance
-  * REVIEW AND MANAGE IDEAS: Research DeFi insurance companies and tokens that fall in line with DeFi insurance for farmers.
-  * DEFINE FEATURES AND REQUIREMENTS: Create a smart contract that links the client to other companies on the blockchain to help customers find better quotes quickly.
-  * ORGANIZE INTO RELEASES: Create a website that allows clients to access and navigate to the pertinent information.
+  * **Strategy**: DeFi Insurance
+  * **Review and Manage Ideas**: Research DeFi insurance companies and tokens that fall in line with DeFi insurance for farmers.
+  * **Define Features and Requirements**: Create a smart contract that links the client to other companies on the blockchain to help customers find better quotes quickly.
+  * **Organized into releases**: Create a website that allows clients to access and navigate to the pertinent information.
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
