@@ -235,7 +235,7 @@ The following open source packages are used in this project:
 
 <!-- Outcome -->
  <img align="left" src="https://user-images.githubusercontent.com/65415371/124740290-8e048b80-df12-11eb-9c29-654c9cb4561b.png" width="50px" />
-<h2 id="Outcome"> Preprocessing</h2>
+<h2 id="Outcome"> Outcome</h2>
  
  <p align="justify">
   
@@ -270,8 +270,7 @@ The following open source packages are used in this project:
 Links the smart contract, API, and user interface, allowing end users to input their data and receive usable output. The client can apply for the desired coverage from the website allowing ease of implementation after a series of real time verification processes. 
   
  **Django App**
-  
-  
+The Django app was created to allow the clients easy access to the insurance plan and subsequent material. It was designed to create an environment for the insured as a single place to sign into for all their insurance questions and concerns. The Django connects directly to the smart contract ensuring clients can easily apply for any risk management plan they need.  
   
 **API - Property Value**
 API provides a robust and instant access to the necessary data that is used for estimating the premiums. RapidAPI is able to take an address and return a realistic market value for the property at that address by connecting to Zillow, the leading real estate marketplace. Thus, the clients could receive an quote that reflects the actual risk of their business.
