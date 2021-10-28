@@ -276,7 +276,7 @@ The Django app was created to allow the clients easy access to the insurance pla
 API provides a robust and instant access to the necessary data that is used for estimating the premiums. RapidAPI is able to take an address and return a realistic market value for the property at that address by connecting to Zillow, the leading real estate marketplace. Thus, the clients could receive an quote that reflects the actual risk of their business.
   
 **Solidity Contracts**
-  
+Solidity is a programming language for writing smart contracts, which are simply programs that run on an Ethereum blockchain. It is based on an ECSMA Script syntax, making it more familiar to web developers. Programs written through Solidity are designed to be run on an Ethereum Virtual Machine.  
   
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
