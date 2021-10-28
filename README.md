@@ -80,7 +80,7 @@ Some find it interesting to speculate about finance disappearing under the crush
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)   
 
-### The role of Finance
+### The Role of Finance
 
 <p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137187176-28be4c64-63fd-48a9-bf71-92cef967da31.jpg"></p>
 
