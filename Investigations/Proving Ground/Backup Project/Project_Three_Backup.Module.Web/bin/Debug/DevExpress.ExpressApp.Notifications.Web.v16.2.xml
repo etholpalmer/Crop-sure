@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevExpress.ExpressApp.Notifications.Web.v16.2</name>
+    </assembly>
+    <members>
+        <member name="T:DevExpress.ExpressApp.Notifications.Web.WebNotificationsController">
+
+            <summary>
+                <para> </para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.ExpressApp.Notifications.Web.WebNotificationsController.#ctor">
+            <summary>
+                <para>Creates an instance of the WebNotificationsController class.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="P:DevExpress.ExpressApp.Notifications.Web.WebNotificationsController.IsViewShowing">
+            <summary>
+                <para> </para>
+            </summary>
+            <value> </value>
+
+
+        </member>
+    </members>
+</doc>
