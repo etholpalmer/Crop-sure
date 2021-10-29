@@ -234,21 +234,8 @@ The following open source packages are used in this project:
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- Outcome -->
- <img align="left" src="https://user-images.githubusercontent.com/65415371/124740290-8e048b80-df12-11eb-9c29-654c9cb4561b.png" width="50px" />
-<h2 id="Outcome"> Outcome</h2>
- 
- <p align="justify">
-  
-  *
-  *
-  *
-  *
-  
- 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-
+  
 
 <!-- DELIVERABLES -->
  <img align="left" src="https://user-images.githubusercontent.com/65415371/124741011-3581be00-df13-11eb-8d9a-b44e6fe248a8.png" width="50px" />
