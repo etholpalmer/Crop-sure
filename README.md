@@ -42,10 +42,8 @@
     <li><a href="#Prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#Project-roadmap"> ➤ Project Roadmap</a></li>
     <li>
-      <a href="#preprocessing"> ➤ Preprocessing</a>
+      <a href="#Deliverables"> ➤ Deliverables</a>
       <ul>
-        <li><a href="#preprocessed-data">Pre-processed data</a></li>
-        <li><a href="#statistical-feature">Statistical feature</a></li>
         <li><a href="#Key-Project-Features">Key Project Features</a></li>
       </ul>
     </li>
