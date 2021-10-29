@@ -217,6 +217,7 @@ The following open source packages are used in this project:
 * SQL
 * Truffle Suite
 * Sublime 
+* Infura
  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -247,18 +248,7 @@ The following open source packages are used in this project:
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- PRE-PROCESSED DATA -->
- <img align="left" src="https://user-images.githubusercontent.com/65415371/124740742-f94e5d80-df12-11eb-8ca9-7d2ad4f56e3d.png" width="50px" />
-<h2 id="preprocessed-data"> Pre-processed data</h2>
- 
- <p align="justify">
-  
-  *
-  *
-  *
-  *
- 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 <!-- DELIVERABLES -->
  <img align="left" src="https://user-images.githubusercontent.com/65415371/124741011-3581be00-df13-11eb-8d9a-b44e6fe248a8.png" width="50px" />
